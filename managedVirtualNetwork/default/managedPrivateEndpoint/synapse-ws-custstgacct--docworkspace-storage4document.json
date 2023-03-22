@@ -1,0 +1,7 @@
+{
+	"name": "synapse-ws-custstgacct--docworkspace-storage4document",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/d93837a1-fb4d-402f-be79-f428a8734e63/resourceGroups/DocumentGroup/providers/Microsoft.Storage/storageAccounts/storage4document",
+		"groupId": "dfs"
+	}
+}
